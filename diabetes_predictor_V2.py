@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 
 
-actual_patient_data = pd.read_csv(r".\diabetes_data_upload.csv")
+actual_patient_data = pd.read_csv('diabetes_data_upload.csv')
 
 converted_data=pd.get_dummies(actual_patient_data, prefix=['Gender', 'Polyuria', 'Polydipsia', 'sudden weight loss',
        'weakness', 'Polyphagia', 'Genital thrush', 'visual blurring',
