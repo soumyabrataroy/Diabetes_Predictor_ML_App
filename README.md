@@ -14,6 +14,6 @@ https://share.streamlit.io/soumyabrataroy/diabetes_predictor_ml_app/main/diabete
 # Usage
 You need to answer some of the questions like what is your age?, do you have polyuria? etc etc... and the app will tell you if you could have diabetes or not.
 
-# example
+# Example
 See my video explanation of the app here:
 https://youtu.be/Igg-wYUAdvg
