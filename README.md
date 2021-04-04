@@ -17,3 +17,6 @@ You need to answer some of the questions like what is your age?, do you have pol
 # Example
 See my video explanation of the app here:
 https://youtu.be/Igg-wYUAdvg
+
+# Check out my Medium post here:
+https://soumyabrataroy.medium.com/diabetes-predictor-ml-app-27967d306bb0
